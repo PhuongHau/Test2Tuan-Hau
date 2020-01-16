@@ -1,0 +1,16 @@
+body{
+  	margin: 0px;
+  	padding: 0px;
+}
+.container{0
+	height: 700px;
+	margin: 0px auto;
+	display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;	
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+.item{
+	background-color: #D7A11E;
+}
